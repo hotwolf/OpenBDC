@@ -3,7 +3,7 @@ auto:        true
 server:      true
 server_port: 80
 baseurl:     /
-url:         http://hotwolf.github.com/OpenBDC
+url:         //hotwolf.github.io/OpenBDC
 
 source:      .
 destination: ./_site
