@@ -7,7 +7,6 @@ url:         //hotwolf.github.io/OpenBDC
 
 source:      .
 destination: ./_site
-plugins:     ./_plugins
 
 future:      true
 lsi:         false
